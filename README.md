@@ -29,7 +29,7 @@ This is a hospital management system built using Express.js, MongoDB, Node.js an
 ## Usage
 - Register a new user account or login with an existing account.
 - Manage hospitals and doctors by adding, editing, or deleting them.
-- Use the COVID-19 tracker to view the latest statistics for India.
+- Use the COVID-19 tracker to view the latest statistics for India. (in works)
 
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue if you encounter any problems or have suggestions for improvements.
