@@ -19,7 +19,7 @@ This is a hospital management system built using Express.js, MongoDB, Node.js an
    ### Create .env in root directory
    text:  
    > PORT=3000  
-   > MONGODB_URI=mongodb://localhost:27017/hospitalDB  
+   > MONGODB_URI=mongodb://localhost:27017/vaidyaDB  
    > SESSION_SECRET=your_session_secret
 7. Run the application  
    bash:  
