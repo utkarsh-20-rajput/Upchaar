@@ -9,18 +9,22 @@ This is a hospital management system built using Express.js, MongoDB, Node.js an
 
 ## Installation
 1. Clone the repository  
-   bash: git clone https://github.com/utkarsh-20-rajput/Upchaar
-2. Install dependencies  
-   bash: cd upchaar  
+   bash:  
+   > git clone https://github.com/utkarsh-20-rajput/Upchaar
+3. Install dependencies  
+   bash:  
+   > cd upchaar  
    > npm install
-3. Setup environment variables  
+5. Setup environment variables  
    ### Create .env in root directory
-   text: PORT=3000  
+   text:  
+   > PORT=3000  
    > MONGODB_URI=mongodb://localhost:27017/hospitalDB  
    > SESSION_SECRET=your_session_secret
-4. Run the application  
-   bash: npm start
-5. Open your browser and visit http://localhost:3000 to use the application.
+7. Run the application  
+   bash:  
+   > npm start
+9. Open your browser and visit http://localhost:3000 to use the application.
 
 ## Usage
 - Register a new user account or login with an existing account.
